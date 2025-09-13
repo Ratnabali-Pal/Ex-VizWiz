@@ -1,4 +1,4 @@
-![Examples](img/machine.jpg)
+![Examples](Ex-vizwiz.png)
 
 ### Publication
 Ratnabali Pal
